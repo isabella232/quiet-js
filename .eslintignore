@@ -1,0 +1,5 @@
+dist/
+emscripten/
+example/
+examples/
+node_modules/
